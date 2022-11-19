@@ -25,4 +25,4 @@
 
 #### Defined in
 
-[medusa-js/src/resources/admin/variants.ts:7](https://github.com/medusajs/medusa/blob/a4dd26e13/packages/medusa-js/src/resources/admin/variants.ts#L7)
+[medusa-js/src/resources/admin/variants.ts:7](https://github.com/Julesdj/medusa/blob/3aa08271/packages/medusa-js/src/resources/admin/variants.ts#L7)
