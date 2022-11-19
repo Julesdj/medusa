@@ -29,7 +29,7 @@ Retrieves a list of of Product Variants
 
 #### Defined in
 
-[medusa-js/src/resources/product-variants.ts:28](https://github.com/medusajs/medusa/blob/a4dd26e13/packages/medusa-js/src/resources/product-variants.ts#L28)
+[medusa-js/src/resources/product-variants.ts:28](https://github.com/Julesdj/medusa/blob/3aa08271/packages/medusa-js/src/resources/product-variants.ts#L28)
 
 ___
 
@@ -54,4 +54,4 @@ Retrieves a single product variant
 
 #### Defined in
 
-[medusa-js/src/resources/product-variants.ts:17](https://github.com/medusajs/medusa/blob/a4dd26e13/packages/medusa-js/src/resources/product-variants.ts#L17)
+[medusa-js/src/resources/product-variants.ts:17](https://github.com/Julesdj/medusa/blob/3aa08271/packages/medusa-js/src/resources/product-variants.ts#L17)

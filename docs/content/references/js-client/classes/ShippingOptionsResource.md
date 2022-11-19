@@ -29,7 +29,7 @@ Lists shiping options available
 
 #### Defined in
 
-[medusa-js/src/resources/shipping-options.ts:27](https://github.com/medusajs/medusa/blob/a4dd26e13/packages/medusa-js/src/resources/shipping-options.ts#L27)
+[medusa-js/src/resources/shipping-options.ts:27](https://github.com/Julesdj/medusa/blob/3aa08271/packages/medusa-js/src/resources/shipping-options.ts#L27)
 
 ___
 
@@ -54,4 +54,4 @@ Lists shiping options available for a cart
 
 #### Defined in
 
-[medusa-js/src/resources/shipping-options.ts:16](https://github.com/medusajs/medusa/blob/a4dd26e13/packages/medusa-js/src/resources/shipping-options.ts#L16)
+[medusa-js/src/resources/shipping-options.ts:16](https://github.com/Julesdj/medusa/blob/3aa08271/packages/medusa-js/src/resources/shipping-options.ts#L16)
